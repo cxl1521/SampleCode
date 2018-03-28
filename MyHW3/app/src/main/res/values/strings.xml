@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">作業三</string>
+    <string name="sex">性別</string>
+    <string name="age">年齡</string>
+    <string name="maleAgeRange1">小於30歲</string>
+    <string name="maleAgeRange2">30~40歲</string>
+    <string name="maleAgeRange3">大於40歲</string>
+    <string name="femaleAgeRange1">小於28歲</string>
+    <string name="femaleAgeRange2">28~35歲</string>
+    <string name="femaleAgeRange3">大於35歲</string>
+    <string name="btnOK">確定</string>
+    <string name="suggestion">建議:</string>
+    <string-array name="sex_list">
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string name="sug_not_hurry">還不急</string>
+    <string name="sug_find_couple">開始找對象</string>
+    <string name="sug_get_married">趕快結婚</string>
+    <string name="spn_sex_list_promt">請選擇性別</string>
+    <string name="family">家人數量</string>
+    <string name="number">預設為3</string>
+</resources>
