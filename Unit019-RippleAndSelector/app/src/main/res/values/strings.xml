@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ripple和Selector</string>
+    <string name="btn_ripple">水波動畫按鈕</string>
+    <string name="btn_selector">一般按鈕</string>
+</resources>
