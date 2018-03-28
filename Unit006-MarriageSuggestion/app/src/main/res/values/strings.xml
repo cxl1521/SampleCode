@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">婚姻建議</string>
+    <string name="sex">性別</string>
+    <string name="sex_hint">(輸入性別)</string>
+    <string name="age">年齡</string>
+    <string name="age_hint">(輸入年齡)</string>
+    <string name="btn_ok">確定</string>
+    <string name="suggestion">建議：</string>
+    <string name="sug_not_hurry">還不急。</string>
+    <string name="sug_get_married">趕快結婚！</string>
+    <string name="sug_find_couple">開始找對象。</string>
+    <string name="sex_male">男</string>
+</resources>
