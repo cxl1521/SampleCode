@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProgressBar和Multi-Thread程式</string>
+    <string name="progress_bar_default">這是預設的ProgressBar型態</string>
+    <string name="progress_bar_horizontal">這是progressBarStyleHorizontal型態</string>
+    <string name="progress_bar_large">這是progressBarStyleLarge型態</string>
+    <string name="progress_bar_small">這是progressBarStyleSmall型態</string>
+</resources>
