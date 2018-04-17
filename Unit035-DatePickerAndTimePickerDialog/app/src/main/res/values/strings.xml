@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePicker和TimePicker對話盒</string>
+    <string name="time_picker_dialog">TimePickerDialog</string>
+    <string name="date_picker_dialog">DatePickerDialog</string>
+</resources>
