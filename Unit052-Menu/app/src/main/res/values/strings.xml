@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">選單範例</string>
+    <string name="hello_world">請利用選單播放背景音樂</string>
+    <string name="menuItemBackgroundMusic">背景音樂</string>
+    <string name="menuItemPlayBackgroundMusic">播放背景音樂</string>
+    <string name="menuItemStopBackgroundMusic">停止播放背景音樂</string>
+    <string name="menuItemAbout">關於這個程式...</string>
+    <string name="menuItemExit">結束</string>
+</resources>
