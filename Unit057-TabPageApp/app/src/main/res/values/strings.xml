@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tab Page範例</string>
+
+    <!-- 以下是從單元13程式專案的字串資源檔複製的字串 -->
+    <string name="sex">性別：</string>
+    <string name="age">年齡：</string>
+    <string name="btn_ok">確定</string>
+    <string name="result">結果：</string>
+    <string name="sug_not_hurry">還不急。</string>
+    <string name="sug_get_married">趕快結婚！</string>
+    <string name="sug_find_couple">開始找對象。</string>
+    <string name="sex_male">男</string>
+    <string name="edt_sex_hint">輸入性別</string>
+    <string name="edt_age_hint">輸入年齡</string>
+    <string name="male">男生</string>
+    <string name="female">女生</string>
+    <string name="male_age_range1">小於28歲</string>
+    <string name="male_age_range2">28~33歲</string>
+    <string name="male_age_range3">大於33歲</string>
+    <string name="female_age_range1">小於25歲</string>
+    <string name="female_age_range2">25~30歲</string>
+    <string name="female_age_range3">大於30歲</string>
+
+    <string name="prompt_com_play">電腦出拳：</string>
+    <string name="prompt_my_play">玩家出拳：</string>
+    <string name="play_scissors">剪刀</string>
+    <string name="play_stone">石頭</string>
+    <string name="play_paper">布</string>
+    <string name="player_win">恭喜，你贏了！</string>
+    <string name="player_lose">很可惜，你輸了！</string>
+    <string name="player_draw">雙方平手！</string>
+    <string name="prompt_title">和電腦猜拳</string>
+</resources>
