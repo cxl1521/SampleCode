@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">支援多種語系和螢幕模式</string>
+    <string name="hello_world">使用字串資源檔：values/strings.xml</string>
+</resources>
