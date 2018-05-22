@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.backgroundmusic.MainActivity"
+    android:orientation="vertical"
+    android:gravity="center_horizontal" >
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="開始播放" />
+
+    <Button
+        android:id="@+id/btnPause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="暫停播放" />
+
+    <Button
+        android:id="@+id/btnStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="停止播放" />
+
+    <Button
+        android:id="@+id/btnSetRepeat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重複播放" />
+
+    <Button
+        android:id="@+id/btnCancelRepeat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="取消重複播放" />
+
+    <EditText
+        android:id="@+id/edtGoto"
+        android:layout_width="60sp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"/>
+
+    <Button
+        android:id="@+id/btnGoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="跳至指定位置（秒）" />
+
+    <Button
+        android:id="@+id/btnAddToMediaStore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="加入 mp3 檔" />
+
+</LinearLayout>
