@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">婚姻建議程式</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sex">性別：</string>
+    <string name="age">年齡：</string>
+    <string name="btn_ok">確定</string>
+    <string name="result">建議：</string>
+    <string name="edt_sex_hint">(輸入性別)</string>
+    <string name="edt_age_hint">(輸入年齡)</string>
+    <string name="sug_not_hurry">還不急。</string>
+    <string name="sug_get_married">趕快結婚！</string>
+    <string name="sug_find_couple">開始找對象。</string>
+    <string name="sex_male">男</string>
+</resources>
