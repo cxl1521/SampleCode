@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Google地圖</string>
+    <string name="title_activity_maps">Google地圖</string>
+    <string name="btn_3d_map">3D地圖</string>
+    <string-array name="spn_map_type_list">
+        <item>一般街道圖</item>
+        <item>衛星影像地圖</item>
+        <item>地形圖</item>
+        <item>混合地圖</item>
+    </string-array>
+
+</resources>
